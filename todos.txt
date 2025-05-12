@@ -1,6 +1,4 @@
-add a new player
 Buy a camera
-Make soup.
 Make pizza.
 Clean the carMaster Python!
 Clean the program
